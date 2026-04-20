@@ -1,0 +1,103 @@
+{
+  "id": "kot-ability-zero",
+  "title": "Ability Zero",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "step-1",
+          "exerciseId": "tibialis-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 30, "max": 30 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-2",
+          "exerciseId": "fhl-calf-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 25, "max": 25 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-3",
+          "exerciseId": "kot-calf-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 25, "max": 25 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-4",
+          "exerciseId": "patrick-step",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 25, "max": 25 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-5",
+          "exerciseId": "atg-split-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 5, "max": 5 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-6",
+          "exerciseId": "kot-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 5, "max": 5 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-7",
+          "exerciseId": "elephant-walk",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 30, "max": 30 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-8",
+          "exerciseId": "l-sit",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-9",
+          "exerciseId": "couch-stretch",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "toFailure": "none"
+          }
+        },
+        {
+          "id": "step-10",
+          "exerciseId": "outer-glute-stretch",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 60
+    }
+  ]
+}
