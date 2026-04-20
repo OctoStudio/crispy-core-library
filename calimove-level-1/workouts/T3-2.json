@@ -1,0 +1,104 @@
+{
+  "id": "T3-2",
+  "title": "Test 3-2",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "body-row",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "tempo": { "down": 2, "up": 2 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "push-up",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "tempo": { "down": 2, "up": 2 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "jumping-lunge",
+          "exerciseId": "jumping-lunge",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": null
+            },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": { "down": 1, "up": "X" }
+          }
+        }
+      ],
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "knee-to-elbow-plank",
+          "exerciseId": "knee-to-elbow-plank",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "tempo": { "down": 1, "pause": 2, "up": 1 },
+            "toFailure": "none"
+          }
+        }
+      ]
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "arch-up",
+          "exerciseId": "arch-up",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "tempo": { "down": 1, "pause": 2, "up": 1 },
+            "toFailure": "none"
+          }
+        }
+      ]
+    }
+  ]
+}

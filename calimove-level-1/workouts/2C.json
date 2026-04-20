@@ -1,0 +1,81 @@
+{
+  "id": "2C",
+  "title": "Workout 2C",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "band-assist-pull-up",
+          "exerciseId": "band-assist-pull-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": "X", "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 180,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "step-up",
+          "exerciseId": "step-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 180,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "band-assist-dip",
+          "exerciseId": "band-assist-dip",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 3, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 2, "up": "X" }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 180,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "single-leg-glute-bridge",
+          "exerciseId": "single-leg-glute-bridge",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": { "down": 1, "pause": 0, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120
+    }
+  ]
+}

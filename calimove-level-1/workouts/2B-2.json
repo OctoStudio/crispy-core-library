@@ -1,0 +1,84 @@
+{
+  "id": "2B",
+  "title": "Workout 2B",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "incline-push-up",
+          "exerciseId": "incline-push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "body-row",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 0, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "jumping-squat",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": null },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 1, "pause": 0, "up": "X" }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "swimmer",
+          "exerciseId": "swimmer",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 1, "pause": 0, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120
+    }
+  ]
+}

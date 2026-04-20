@@ -1,0 +1,85 @@
+{
+  "id": "T4-1",
+  "title": "Test 4-1",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "body-row",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "push-up",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "none"
+          }
+        }
+      ],
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "jumping-lunge",
+          "exerciseId": "jumping-lunge",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": null
+            },
+            "rpe": 10,
+            "tempo": { "down": 1, "up": "X" },
+            "toFailure": "each"
+          }
+        }
+      ],
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "hanging-leg-raise",
+          "exerciseId": "hanging-leg-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 10,
+            "tempo": { "down": 1, "up": 1 },
+            "toFailure": "none"
+          }
+        }
+      ]
+    }
+  ]
+}
