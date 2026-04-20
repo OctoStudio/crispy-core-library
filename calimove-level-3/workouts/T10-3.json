@@ -1,0 +1,62 @@
+{
+  "id": "T10-3",
+  "title": "Test Workout T10-3",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "pistol-squat-T10-3",
+          "exerciseId": "pistol-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 5, "max": 10 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "typewriter-pull-up-T10-3",
+          "exerciseId": "typewriter-pull-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 5, "max": 10 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "dip-T10-3",
+          "exerciseId": "dip",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 20 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "T10-1",
+  "title": "Test Workout T10-1",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "archer-push-up-T10-1",
+          "exerciseId": "archer-push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "archer-bodyrow-T10-1",
+          "exerciseId": "archer-bodyrow",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "l-sit-T10-1",
+          "exerciseId": "l-sit",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 10, "max": 30 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "rollout-T10-1",
+          "exerciseId": "rollout",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

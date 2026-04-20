@@ -1,0 +1,65 @@
+{
+  "id": "10A",
+  "title": "Workout 10A",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "archer-push-up-10A",
+          "exerciseId": "archer-push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 6, "max": 10 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        },
+        {
+          "id": "dip-10A",
+          "exerciseId": "dip",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 12 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "l-sit-10A",
+          "exerciseId": "l-sit",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 10, "max": 20 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        },
+        {
+          "id": "rollout-10A",
+          "exerciseId": "rollout",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 6, "max": 10 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90
+    }
+  ]
+}

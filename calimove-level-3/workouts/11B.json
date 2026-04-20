@@ -1,0 +1,84 @@
+{
+  "id": "11B",
+  "title": "Workout 11B",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "typewriter-pull-up-11B",
+          "exerciseId": "typewriter-pull-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 4, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        },
+        {
+          "id": "supporting-leg-raise-11B",
+          "exerciseId": "supporting-leg-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 6, "max": 12 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 1, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "skin-the-cat-11B",
+          "exerciseId": "skin-the-cat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 4, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        },
+        {
+          "id": "hanging-side-lean-11B",
+          "exerciseId": "hanging-side-lean",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 15, "max": 30 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "archer-bodyrow-11B",
+          "exerciseId": "archer-bodyrow",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 6, "max": 10 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90
+    }
+  ]
+}

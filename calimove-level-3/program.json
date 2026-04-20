@@ -1,0 +1,107 @@
+{
+    "programId": "calisthenics-level-3",
+    "programTitle": "Calimove – Level 3",
+    "contentVersion": "1.0",
+    "phases": [
+        {
+            "id": "P9",
+            "title": "Phase 9",
+            "weeks": [
+                {
+                    "weekNumber": 1,
+                    "pattern": ["T9-1", "REST", "T9-2", "REST", "T9-3", "REST", "REST"]
+                },
+                {
+                    "weekNumber": 2,
+                    "pattern": ["CAPI-A", "REST", "CAPI-B", "REST", "CAPI-C", "REST", "REST"]
+                },
+                {
+                    "weekNumber": 3,
+                    "pattern": ["CAPI-A", "REST", "CAPI-B", "REST", "CAPI-C", "REST", "REST"]
+                },
+                {
+                    "weekNumber": 4,
+                    "pattern": ["CAPI-A", "REST", "LACT", "REST", "CAPI-B", "REST", "REST"]
+                }
+            ]
+        },
+        {
+            "id": "P10",
+            "title": "Phase 10",
+            "weeks": [
+                {
+                    "weekNumber": 5,
+                    "pattern": ["T10-1", "REST", "T10-2", "REST", "T10-3", "REST", "REST"]
+                },
+                {
+                    "weekNumber": 6,
+                    "pattern": ["10A", "10B", "REST", "10C", "REST", "10B", "REST"]
+                },
+                {
+                    "weekNumber": 7,
+                    "pattern": ["10A", "10B", "REST", "10C", "REST", "10B", "REST"]
+                },
+                {
+                    "weekNumber": 8,
+                    "pattern": ["10A", "10B", "REST", "10C", "REST", "10B", "REST"]
+                },
+                {
+                    "weekNumber": 9,
+                    "pattern": ["10A", "10B", "REST", "10C", "REST", "10B", "REST"]
+                }
+            ]
+        },
+        {
+            "id": "P11",
+            "title": "Phase 11",
+            "weeks": [
+                {
+                    "weekNumber": 10,
+                    "pattern": ["T11-1", "REST", "T11-2", "REST", "T11-3", "REST", "REST"]
+                },
+                {
+                    "weekNumber": 11,
+                    "pattern": ["11A", "REST", "11B", "REST", "11C", "REST", "REST"]
+                },
+                {
+                    "weekNumber": 12,
+                    "pattern": ["11A", "REST", "11B", "REST", "11C", "REST", "REST"]
+                },
+                {
+                    "weekNumber": 13,
+                    "pattern": ["11A", "REST", "11B", "REST", "11C", "REST", "REST"]
+                },
+                {
+                    "weekNumber": 14,
+                    "pattern": ["11A", "REST", "11B", "REST", "11C", "REST", "REST"]
+                }
+            ]
+        },
+        {
+            "id": "P12",
+            "title": "Phase 12",
+            "weeks": [
+                {
+                    "weekNumber": 15,
+                    "pattern": ["T12-1", "REST", "T12-2", "REST", "T12-3", "REST", "REST"]
+                },
+                {
+                    "weekNumber": 16,
+                    "pattern": ["12A", "REST", "12B", "REST", "12A", "REST", "12B"]
+                },
+                {
+                    "weekNumber": 17,
+                    "pattern": ["REST", "12SS", "REST", "12B", "REST", "12A", "REST"]
+                },
+                {
+                    "weekNumber": 18,
+                    "pattern": ["12B", "REST", "12A", "REST", "12B", "REST", "12SS"]
+                },
+                {
+                    "weekNumber": 19,
+                    "pattern": ["REST", "12B", "REST", "12A", "REST", "12B", "REST"]
+                }
+            ]
+        }
+    ]
+}

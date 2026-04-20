@@ -1,0 +1,81 @@
+{
+  "id": "CAPI-B",
+  "title": "Workout CAPI-B",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "pike-stand",
+          "exerciseId": "pike-stand",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 50, "max": 90 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "active-hang",
+          "exerciseId": "active-hang",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 20, "max": 40 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "dish-hold",
+          "exerciseId": "dish-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 60 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "easy-bridge-lean",
+          "exerciseId": "easy-bridge-lean",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 20, "max": 40 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120
+    }
+  ]
+}

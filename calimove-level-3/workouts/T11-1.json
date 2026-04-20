@@ -1,0 +1,62 @@
+{
+  "id": "T11-1",
+  "title": "Test Workout T11-1",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "archer-push-up-T11-1",
+          "exerciseId": "archer-push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "planche-lean-T11-1",
+          "exerciseId": "planche-lean",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 15, "max": 45 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "handstand-routine-T11-1",
+          "exerciseId": "handstand-routine",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 90 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

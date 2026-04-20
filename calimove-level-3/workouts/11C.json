@@ -1,0 +1,95 @@
+{
+  "id": "11C",
+  "title": "Workout 11C",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "pistol-squat-11C",
+          "exerciseId": "pistol-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 5, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        },
+        {
+          "id": "hollow-body-hold-11C",
+          "exerciseId": "hollow-body-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 60 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "archer-squat-11C",
+          "exerciseId": "archer-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        },
+        {
+          "id": "l-sit-11C",
+          "exerciseId": "l-sit",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 10, "max": 20 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "circuit",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "jumping-squat-11C",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 20 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        },
+        {
+          "id": "jumping-lunge-11C",
+          "exerciseId": "jumping-lunge",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 20 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 60
+    }
+  ]
+}

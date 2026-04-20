@@ -1,0 +1,62 @@
+{
+  "id": "T11-2",
+  "title": "Test Workout T11-2",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "typewriter-pull-up-T11-2",
+          "exerciseId": "typewriter-pull-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 6, "max": 12 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "supporting-leg-raise-T11-2",
+          "exerciseId": "supporting-leg-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "skin-the-cat-T11-2",
+          "exerciseId": "skin-the-cat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 5, "max": 10 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

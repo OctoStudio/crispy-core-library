@@ -1,0 +1,95 @@
+{
+  "id": "12B",
+  "title": "Workout 12B",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 6,
+      "items": [
+        {
+          "id": "typewriter-pull-up-12B",
+          "exerciseId": "typewriter-pull-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 5, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        },
+        {
+          "id": "supporting-leg-raise-12B",
+          "exerciseId": "supporting-leg-raise",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "pause": 1, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "circuit",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "pistol-squat-12B",
+          "exerciseId": "pistol-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 6, "max": 10 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        },
+        {
+          "id": "hollow-body-hold-12B",
+          "exerciseId": "hollow-body-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 60 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "skin-the-cat-12B",
+          "exerciseId": "skin-the-cat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 5, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        },
+        {
+          "id": "archer-bodyrow-12B",
+          "exerciseId": "archer-bodyrow",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 6, "max": 10 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90
+    }
+  ]
+}

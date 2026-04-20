@@ -1,0 +1,81 @@
+{
+  "id": "12SS",
+  "title": "Workout 12SS – Static Strength",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "planche-lean-12SS",
+          "exerciseId": "planche-lean",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 20, "max": 40 } },
+            "rpe": 9,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "l-sit-12SS",
+          "exerciseId": "l-sit",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 15, "max": 30 } },
+            "rpe": 9,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "handstand-routine-12SS",
+          "exerciseId": "handstand-routine",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 45, "max": 120 } },
+            "rpe": 9,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "hollow-body-hold-12SS",
+          "exerciseId": "hollow-body-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 45, "max": 90 } },
+            "rpe": 9,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120
+    }
+  ]
+}

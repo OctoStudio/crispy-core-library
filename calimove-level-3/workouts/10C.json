@@ -1,0 +1,76 @@
+{
+  "id": "10C",
+  "title": "Workout 10C",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "pistol-squat-10C",
+          "exerciseId": "pistol-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 4, "max": 8 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        },
+        {
+          "id": "archer-squat-10C",
+          "exerciseId": "archer-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 12 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "circuit",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "push-up-10C",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        },
+        {
+          "id": "body-row-10C",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 25 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        },
+        {
+          "id": "jumping-squat-10C",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 20 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 60
+    }
+  ]
+}

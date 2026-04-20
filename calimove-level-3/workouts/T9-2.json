@@ -1,0 +1,82 @@
+{
+    "id": "T9-2",
+    "title": "Test 9-2",
+    "blocks": [
+        {
+            "type": "straight",
+            "rounds": 1,
+            "items": [
+                {
+                    "id": "pike-stand-T9-2",
+                    "exerciseId": "pike-stand",
+                    "prescription": {
+                        "mode": "time",
+                        "target": { "timeSec": { "min": 50, "max": 90 } },
+                        "rpe": 10,
+                        "toFailure": "none",
+                        "tempo": { "down": 0, "pause": 0, "up": 0 }
+                    }
+                }
+            ],
+            "restBetweenRoundsSec": 0,
+            "postBlockRestSec": 600
+        },
+        {
+            "type": "straight",
+            "rounds": 1,
+            "items": [
+                {
+                    "id": "active-hang-T9-2",
+                    "exerciseId": "active-hang",
+                    "prescription": {
+                        "mode": "time",
+                        "target": { "timeSec": { "min": 20, "max": 40 } },
+                        "rpe": 10,
+                        "toFailure": "none",
+                        "tempo": { "down": 0, "pause": 0, "up": 0 }
+                    }
+                }
+            ],
+            "restBetweenRoundsSec": 0,
+            "postBlockRestSec": 600
+        },
+        {
+            "type": "straight",
+            "rounds": 1,
+            "items": [
+                {
+                    "id": "dish-hold-T9-2",
+                    "exerciseId": "dish-hold",
+                    "prescription": {
+                        "mode": "time",
+                        "target": { "timeSec": { "min": 30, "max": 60 } },
+                        "rpe": 10,
+                        "toFailure": "none",
+                        "tempo": { "down": 0, "pause": 0, "up": 0 }
+                    }
+                }
+            ],
+            "restBetweenRoundsSec": 0,
+            "postBlockRestSec": 600
+        },
+        {
+            "type": "straight",
+            "rounds": 1,
+            "items": [
+                {
+                    "id": "easy-bridge-lean-T9-2",
+                    "exerciseId": "easy-bridge-lean",
+                    "prescription": {
+                        "mode": "time",
+                        "target": { "timeSec": { "min": 20, "max": 40 } },
+                        "rpe": 10,
+                        "toFailure": "none",
+                        "tempo": { "down": 0, "pause": 0, "up": 0 }
+                    }
+                }
+            ],
+            "restBetweenRoundsSec": 0,
+            "postBlockRestSec": 600
+        }
+    ]
+}

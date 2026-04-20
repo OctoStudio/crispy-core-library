@@ -1,0 +1,84 @@
+{
+  "id": "12A",
+  "title": "Workout 12A",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 6,
+      "items": [
+        {
+          "id": "archer-push-up-12A",
+          "exerciseId": "archer-push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 6, "max": 10 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        },
+        {
+          "id": "planche-lean-12A",
+          "exerciseId": "planche-lean",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 20, "max": 40 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "handstand-routine-12A",
+          "exerciseId": "handstand-routine",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 45, "max": 90 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "circuit",
+      "rounds": 4,
+      "items": [
+        {
+          "id": "dip-12A",
+          "exerciseId": "dip",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 15 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 1 }
+          }
+        },
+        {
+          "id": "rollout-12A",
+          "exerciseId": "rollout",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 8, "max": 12 } },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 3, "pause": 1, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 90
+    }
+  ]
+}

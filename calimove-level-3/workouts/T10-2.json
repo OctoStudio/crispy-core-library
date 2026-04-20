@@ -1,0 +1,62 @@
+{
+  "id": "T10-2",
+  "title": "Test Workout T10-2",
+  "blocks": [
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "handstand-routine-T10-2",
+          "exerciseId": "handstand-routine",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 60 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "skin-the-cat-T10-2",
+          "exerciseId": "skin-the-cat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 5, "max": 10 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 600
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "hanging-side-lean-T10-2",
+          "exerciseId": "hanging-side-lean",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 10, "max": 30 } },
+            "rpe": 10,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

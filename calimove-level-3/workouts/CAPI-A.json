@@ -1,0 +1,61 @@
+{
+  "id": "CAPI-A",
+  "title": "Workout CAPI-A",
+  "blocks": [
+    {
+      "type": "accumulation",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "push-up-CAPI-A",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "totalReps",
+            "target": { "totalReps": 50, "reps": { "min": 15, "max": 25 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "body-row-CAPI-A",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "totalReps",
+            "target": { "totalReps": 50, "reps": { "min": 15, "max": 25 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "hollow-body-crunch-CAPI-A",
+          "exerciseId": "hollow-body-crunch",
+          "prescription": {
+            "mode": "totalReps",
+            "target": { "totalReps": 50, "reps": { "min": 15, "max": 25 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "planche-lean-CAPI-A",
+          "exerciseId": "planche-lean",
+          "prescription": {
+            "mode": "totalReps",
+            "target": { "totalReps": 50, "reps": { "min": 15, "max": 25 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": { "down": 2, "pause": 0, "up": 1 }
+          },
+          "restAfterSec": 90
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}

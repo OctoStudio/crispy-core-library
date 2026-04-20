@@ -1,0 +1,57 @@
+{
+  "id": "LACT",
+  "title": "Workout LACT – Lactate Conditioning",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 3,
+      "items": [
+        {
+          "id": "jumping-squat-LACT",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 20 } },
+            "rpe": 9,
+            "toFailure": "each",
+            "tempo": null
+          }
+        },
+        {
+          "id": "push-up-LACT",
+          "exerciseId": "push-up",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 20 } },
+            "rpe": 9,
+            "toFailure": "each",
+            "tempo": null
+          }
+        },
+        {
+          "id": "body-row-LACT",
+          "exerciseId": "body-row",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 20 } },
+            "rpe": 9,
+            "toFailure": "each",
+            "tempo": null
+          }
+        },
+        {
+          "id": "jumping-lunge-LACT",
+          "exerciseId": "jumping-lunge",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 15, "max": 20 } },
+            "rpe": 9,
+            "toFailure": "each",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 60
+    }
+  ]
+}

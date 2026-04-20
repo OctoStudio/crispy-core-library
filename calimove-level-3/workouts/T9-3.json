@@ -1,0 +1,82 @@
+{
+    "id": "T9-3",
+    "title": "Test 9-3",
+    "blocks": [
+        {
+            "type": "straight",
+            "rounds": 1,
+            "items": [
+                {
+                    "id": "jumping-squat-T9-3",
+                    "exerciseId": "jumping-squat",
+                    "prescription": {
+                        "mode": "reps",
+                        "target": { "reps": { "min": 20, "max": 30 } },
+                        "rpe": 10,
+                        "toFailure": "none",
+                        "tempo": { "down": 1, "pause": 0, "up": 0 }
+                    }
+                }
+            ],
+            "restBetweenRoundsSec": 0,
+            "postBlockRestSec": 600
+        },
+        {
+            "type": "straight",
+            "rounds": 1,
+            "items": [
+                {
+                    "id": "jumping-lunge-T9-3",
+                    "exerciseId": "jumping-lunge",
+                    "prescription": {
+                        "mode": "reps",
+                        "target": { "reps": { "min": 20, "max": 30 } },
+                        "rpe": 10,
+                        "toFailure": "none",
+                        "tempo": { "down": 1, "pause": 0, "up": 0 }
+                    }
+                }
+            ],
+            "restBetweenRoundsSec": 0,
+            "postBlockRestSec": 600
+        },
+        {
+            "type": "straight",
+            "rounds": 1,
+            "items": [
+                {
+                    "id": "swimmer-T9-3",
+                    "exerciseId": "swimmer",
+                    "prescription": {
+                        "mode": "reps",
+                        "target": { "reps": { "min": 15, "max": 25 } },
+                        "rpe": 10,
+                        "toFailure": "none",
+                        "tempo": { "down": 1, "pause": 0, "up": 1 }
+                    }
+                }
+            ],
+            "restBetweenRoundsSec": 0,
+            "postBlockRestSec": 600
+        },
+        {
+            "type": "straight",
+            "rounds": 1,
+            "items": [
+                {
+                    "id": "sitting-leg-raise-T9-3",
+                    "exerciseId": "sitting-leg-raise",
+                    "prescription": {
+                        "mode": "reps",
+                        "target": { "reps": { "min": 15, "max": 25 } },
+                        "rpe": 10,
+                        "toFailure": "none",
+                        "tempo": { "down": 2, "pause": 0, "up": 1 }
+                    }
+                }
+            ],
+            "restBetweenRoundsSec": 0,
+            "postBlockRestSec": 600
+        }
+    ]
+}

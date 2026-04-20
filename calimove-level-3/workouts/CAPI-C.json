@@ -1,0 +1,61 @@
+{
+  "id": "CAPI-C",
+  "title": "Workout CAPI-C",
+  "blocks": [
+    {
+      "type": "accumulation",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "jumping-squat-CAPI-C",
+          "exerciseId": "jumping-squat",
+          "prescription": {
+            "mode": "totalReps",
+            "target": { "totalReps": 50, "reps": { "min": 15, "max": 25 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "jumping-lunge-CAPI-C",
+          "exerciseId": "jumping-lunge",
+          "prescription": {
+            "mode": "totalReps",
+            "target": { "totalReps": 50, "reps": { "min": 15, "max": 25 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "swimmer-CAPI-C",
+          "exerciseId": "swimmer",
+          "prescription": {
+            "mode": "totalReps",
+            "target": { "totalReps": 50, "reps": { "min": 15, "max": 25 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 90
+        },
+        {
+          "id": "sitting-leg-raise-CAPI-C",
+          "exerciseId": "sitting-leg-raise",
+          "prescription": {
+            "mode": "totalReps",
+            "target": { "totalReps": 50, "reps": { "min": 15, "max": 25 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 90
+        }
+      ],
+      "restBetweenRoundsSec": 0
+    }
+  ]
+}
