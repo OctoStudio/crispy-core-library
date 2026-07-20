@@ -14,7 +14,7 @@
             "target": { "reps": { "min": 8, "max": 15 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 1 }
+            "tempo": { "down": 2,  "up": 1 }
           }
         }
       ],
@@ -33,7 +33,7 @@
             "target": { "reps": { "min": 8, "max": 15 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 2 }
+            "tempo": { "down": 2,  "up": 2 }
           }
         }
       ],
@@ -52,7 +52,7 @@
             "target": { "timeSec": { "min": 40, "max": 60 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "tempo": null
           }
         }
       ],
@@ -71,7 +71,7 @@
             "target": { "reps": { "min": 8, "max": 15 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 1, "pause": 0, "up": 1 }
+            "tempo": null
           }
         }
       ],

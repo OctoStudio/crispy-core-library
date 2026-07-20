@@ -14,7 +14,7 @@
             "target": { "timeSec": { "min": 50, "max": 80 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "tempo": null
           }
         }
       ],
@@ -33,7 +33,7 @@
             "target": { "timeSec": { "min": 15, "max": 30 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "tempo": null
           }
         }
       ],
@@ -52,7 +52,7 @@
             "target": { "timeSec": { "min": 30, "max": 80 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "tempo": null
           }
         }
       ],
@@ -71,7 +71,7 @@
             "target": { "timeSec": { "min": 40, "max": 80 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 0, "pause": 0, "up": 0 }
+            "tempo": null
           }
         }
       ],
