@@ -22,7 +22,6 @@
             "toFailure":"none",
             "tempo":{
               "down":1,
-              "pause":0,
               "up":1
             }
           },
@@ -52,7 +51,6 @@
             "toFailure":"none",
             "tempo":{
               "down":2,
-              "pause":0,
               "up":2
             }
           },
@@ -82,7 +80,6 @@
             "toFailure":"none",
             "tempo":{
               "down":1,
-              "pause":0,
               "up":"x"
             }
           },
@@ -112,7 +109,6 @@
             "toFailure":"none",
             "tempo":{
               "down":2,
-              "pause":0,
               "up":2
             }
           },

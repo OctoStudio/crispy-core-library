@@ -19,11 +19,8 @@
             },
             "rpe":9,
             "toFailure":"none",
-            "tempo":{
-              "down":0,
-              "pause":0,
-              "up":0
-            }
+            "tempo": null
+
           }
         }
       ],
@@ -47,11 +44,8 @@
             },
             "rpe":9,
             "toFailure":"none",
-            "tempo":{
-              "down":0,
-              "pause":0,
-              "up":0
-            }
+            "tempo": null
+
           }
         }
       ],
@@ -75,11 +69,8 @@
             },
             "rpe":9,
             "toFailure":"none",
-            "tempo":{
-              "down":0,
-              "pause":0,
-              "up":0
-            }
+            "tempo": null
+
           }
         }
       ],
@@ -103,11 +94,8 @@
             },
             "rpe":9,
             "toFailure":"none",
-            "tempo":{
-              "down":0,
-              "pause":0,
-              "up":0
-            }
+            "tempo": null
+
           }
         }
       ],
