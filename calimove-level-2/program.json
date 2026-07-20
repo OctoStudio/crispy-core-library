@@ -47,7 +47,7 @@
         },
         {
           "weekNumber": 9,
-          "pattern": ["6B-2", "REST", "6A-2", "REST", "6B-2", "REST", "REST"]
+          "pattern": ["6B-2", "REST", "6A-3", "REST", "6B-3", "REST", "REST"]
         }
       ]
     },

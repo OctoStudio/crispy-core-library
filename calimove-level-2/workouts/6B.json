@@ -3,95 +3,88 @@
   "title": "Workout 6B",
   "blocks": [
     {
-      "type": "circuit",
+      "type": "straight",
       "rounds": 3,
       "items": [
         {
-          "id": "pull-up-6B",
+          "id": "pull-up",
           "exerciseId": "pull-up",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 8,
-                "max": 15
-              }
+              "reps": { "min": 8, "max": 15 }
             },
             "rpe": 8,
             "toFailure": "last",
-            "tempo": {
-              "down": 2,
-              "pause": 1,
-              "up": 0
-            }
-          },
-          "restAfterSec": 180
-        },
+            "tempo": { "down": "X", "pause": 1, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
         {
-          "id": "dip-6B",
-          "exerciseId": "dip",
+          "id": "dips",
+          "exerciseId": "dips",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 8,
-                "max": 15
-              }
+              "reps": { "min": 8, "max": 15 }
             },
             "rpe": 8,
             "toFailure": "last",
-            "tempo": {
-              "down": 2,
-              "pause": 0,
-              "up": 2
-            }
-          },
-          "restAfterSec": 180
-        },
+            "tempo": { "down": 2, "up": "X" }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
         {
-          "id": "elevated-pistol-squat-6B",
+          "id": "elevated-pistol-squat",
           "exerciseId": "elevated-pistol-squat",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 8,
-                "max": 15
-              }
+              "reps": { "min": 8, "max": 15 }
             },
             "rpe": 8,
             "toFailure": "last",
-            "tempo": {
-              "down": 3,
-              "pause": 0,
-              "up": 1
-            }
-          },
-          "restAfterSec": 180
-        },
+            "tempo": { "down": 2, "up": "X" }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 3,
+      "items": [
         {
-          "id": "lying-knee-twist-6B",
+          "id": "lying-knee-twist",
           "exerciseId": "lying-knee-twist",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 8,
-                "max": 15
-              }
+              "reps": { "min": 8, "max": 15 }
             },
             "rpe": 8,
             "toFailure": "last",
-            "tempo": {
-              "down": 1,
-              "pause": 0,
-              "up": 1
-            }
-          },
-          "restAfterSec": 180
+            "tempo": { "down": 2, "up": 2 }
+          }
         }
       ],
-      "restBetweenRoundsSec": 180
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
     }
   ]
 }

@@ -1,14 +1,77 @@
 {
-  "id": "6A",
-  "title": "Workout 6A",
+  "id": "6B-3",
+  "title": "Workout 6B",
   "blocks": [
     {
       "type": "straight",
-      "rounds": 3,
+      "rounds": 5,
       "items": [
         {
-          "id": "push-up",
-          "exerciseId": "push-up",
+          "id": "pull-up",
+          "exerciseId": "pull-up",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": "X", "pause": 1, "up": 2 }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "dips",
+          "exerciseId": "dips",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "up": "X" }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "elevated-pistol-squat",
+          "exerciseId": "elevated-pistol-squat",
+          "prescription": {
+            "mode": "reps",
+            "target": {
+              "reps": { "min": 8, "max": 15 }
+            },
+            "rpe": 8,
+            "toFailure": "last",
+            "tempo": { "down": 2, "up": "X" }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
+    },
+    {
+      "type": "straight",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "lying-knee-twist",
+          "exerciseId": "lying-knee-twist",
           "prescription": {
             "mode": "reps",
             "target": {
@@ -22,68 +85,6 @@
       ],
       "restBetweenRoundsSec": 120,
       "postBlockRestSec": 180
-    },
-    {
-      "type": "straight",
-      "rounds": 3,
-      "items": [
-        {
-          "id": "body-row",
-          "exerciseId": "body-row",
-          "prescription": {
-            "mode": "reps",
-            "target": {
-              "reps": { "min": 8, "max": 15 }
-            },
-            "rpe": 8,
-            "toFailure": "last",
-            "tempo": { "down": 2, "up": 2 }
-          }
-        }
-      ],
-      "restBetweenRoundsSec": 120,
-      "postBlockRestSec": 180
-    },
-    {
-      "type": "straight",
-      "rounds": 3,
-      "items": [
-        {
-          "id": "horse-stance",
-          "exerciseId": "horse-stance",
-          "prescription": {
-            "mode": "time",
-            "target": {
-              "timeSec": { "min": 40, "max": 60 }
-            },
-            "rpe": 8,
-            "toFailure": "last",
-            "tempo": null
-          }
-        }
-      ],
-      "restBetweenRoundsSec": 120,
-      "postBlockRestSec": 180
-    },
-    {
-      "type": "straight",
-      "rounds": 3,
-      "items": [
-        {
-          "id": "swimmer",
-          "exerciseId": "swimmer",
-          "prescription": {
-            "mode": "reps",
-            "target": {
-              "reps": { "min": 8, "max": 15 }
-            },
-            "rpe": 8,
-            "toFailure": "last",
-            "tempo": { "down": 1, "up": 1 }
-          }
-        }
-      ],
-      "restBetweenRoundsSec": 120
     }
   ]
 }

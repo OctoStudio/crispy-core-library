@@ -1,10 +1,10 @@
 {
-  "id": "6A",
+  "id": "6A-3",
   "title": "Workout 6A",
   "blocks": [
     {
       "type": "straight",
-      "rounds": 3,
+      "rounds": 5,
       "items": [
         {
           "id": "push-up",
@@ -25,7 +25,7 @@
     },
     {
       "type": "straight",
-      "rounds": 3,
+      "rounds": 5,
       "items": [
         {
           "id": "body-row",
@@ -46,7 +46,7 @@
     },
     {
       "type": "straight",
-      "rounds": 3,
+      "rounds": 5,
       "items": [
         {
           "id": "horse-stance",
@@ -67,7 +67,7 @@
     },
     {
       "type": "straight",
-      "rounds": 3,
+      "rounds": 5,
       "items": [
         {
           "id": "swimmer",
