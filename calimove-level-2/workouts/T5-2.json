@@ -45,14 +45,14 @@
       "rounds": 1,
       "items": [
         {
-          "id": "jumping-squat-T5-2",
-          "exerciseId": "jumping-squat",
+          "id": "deep-squat-T5-2",
+          "exerciseId": "deep-squat",
           "prescription": {
-            "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
+            "mode": "time",
+            "target": { "timeSec": { "min": 30, "max": 80 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 1, "pause": 0, "up": 0 }
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
           }
         }
       ],
@@ -64,14 +64,14 @@
       "rounds": 1,
       "items": [
         {
-          "id": "hollow-body-crunch-T5-2",
-          "exerciseId": "hollow-body-crunch",
+          "id": "arch-up-T5-2",
+          "exerciseId": "arch-up",
           "prescription": {
-            "mode": "reps",
-            "target": { "reps": { "min": 15, "max": 25 } },
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 80 } },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": { "down": 2, "pause": 0, "up": 2 }
+            "tempo": { "down": 0, "pause": 0, "up": 0 }
           }
         }
       ],

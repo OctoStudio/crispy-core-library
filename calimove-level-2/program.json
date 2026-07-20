@@ -17,11 +17,11 @@
         },
         {
           "weekNumber": 3,
-          "pattern": ["5A", "REST", "5A", "REST", "5B", "REST", "REST"]
+          "pattern": ["5A-2", "REST", "5A-2", "REST", "5B", "REST", "REST"]
         },
         {
           "weekNumber": 4,
-          "pattern": ["5A", "REST", "5A", "REST", "5B", "REST", "REST"]
+          "pattern": ["5A-3", "REST", "5A-3", "REST", "5B", "REST", "REST"]
         }
       ]
     },

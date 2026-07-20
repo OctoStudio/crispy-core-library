@@ -17,7 +17,7 @@
             "rpe": 10,
             "toFailure": "none",
             "tempo": { "down": 1, "up": 1 }
-          },
+          }
         }
       ],
       "restBetweenRoundsSec": 60,
@@ -80,7 +80,7 @@
             "rpe": 10,
             "toFailure": "none",
             "tempo": { "down": 2, "up": 2 }
-          },
+          }
         }
       ],
       "restBetweenRoundsSec": 60,
