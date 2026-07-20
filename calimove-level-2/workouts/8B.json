@@ -4,101 +4,74 @@
   "blocks": [
     {
       "type": "circuit",
-      "rounds": 5,
+      "rounds": 6,
       "items": [
         {
-          "id": "body-row-8B",
-          "exerciseId": "body-row",
+          "id": "pull-up",
+          "exerciseId": "pull-up",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 3,
-                "max": 8
-              }
+              "reps": { "min": 3, "max": 8 }
             },
-            "rpe": 8,
+            "rpe": 5,
             "toFailure": "none",
-            "tempo": {
-              "down": 2,
-              "pause": 0,
-              "up": 2
-            }
+            "tempo": { "down": 2, "up": "X" }
           },
           "restAfterSec": 120
         },
         {
-          "id": "push-up-8B",
-          "exerciseId": "push-up",
+          "id": "dip",
+          "exerciseId": "dip",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 3,
-                "max": 8
-              }
+              "reps": { "min": 3, "max": 8 }
             },
-            "rpe": 8,
+            "rpe": 5,
             "toFailure": "none",
-            "tempo": {
-              "down": 2,
-              "pause": 0,
-              "up": 1
-            }
+            "tempo": { "down": 1, "up": "X" }
           },
-          "restAfterSec": 120
+          "restAfterSec": 0
         }
       ],
-      "restBetweenRoundsSec": 180
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
     },
     {
       "type": "circuit",
-      "rounds": 4,
+      "rounds": 6,
       "items": [
         {
-          "id": "step-up-8B",
+          "id": "step-up",
           "exerciseId": "step-up",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 8,
-                "max": 15
-              }
+              "reps": { "min": 3, "max": 8 }
             },
-            "rpe": 8,
+            "rpe": 5,
             "toFailure": "none",
-            "tempo": {
-              "down": 2,
-              "pause": 0,
-              "up": 1
-            }
+            "tempo": { "down": 2, "up": 2 }
           },
-          "restAfterSec": 120
+          "restAfterSec": 90
         },
         {
-          "id": "sl-glute-bridge-raise-8B",
-          "exerciseId": "sl-glute-bridge-raise",
+          "id": "single-leg-glute-bridge-raise",
+          "exerciseId": "single-leg-glute-bridge-raise",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 8,
-                "max": 15
-              }
+              "reps": { "min": 3, "max": 8 }
             },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": {
-              "down": 1,
-              "pause": 0,
-              "up": 1
-            }
+            "tempo": { "down": 1, "pause": 2, "up": 1 }
           },
-          "restAfterSec": 120
+          "restAfterSec": 0
         }
       ],
-      "restBetweenRoundsSec": 180
+      "restBetweenRoundsSec": 90
     }
   ]
 }

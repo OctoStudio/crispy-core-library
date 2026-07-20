@@ -1,10 +1,10 @@
 {
-  "id": "8A",
+  "id": "8A-3",
   "title": "Workout 8A",
   "blocks": [
     {
       "type": "circuit",
-      "rounds": 6,
+      "rounds": 9,
       "items": [
         {
           "id": "pull-up",
@@ -40,7 +40,7 @@
     },
     {
       "type": "circuit",
-      "rounds": 4,
+      "rounds": 5,
       "items": [
         {
           "id": "elevated-pistol-squat",

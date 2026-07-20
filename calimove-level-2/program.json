@@ -91,15 +91,15 @@
         },
         {
           "weekNumber": 17,
-          "pattern": ["8A", "REST", "8A", "REST", "8B", "REST", "REST"]
+          "pattern": ["8A-2", "REST", "8A-2", "REST", "8B-2", "REST", "REST"]
         },
         {
           "weekNumber": 18,
-          "pattern": ["8A", "REST", "8A", "REST", "8B", "REST", "REST"]
+          "pattern": ["8A-3", "REST", "8A-3", "REST", "8B-3", "REST", "REST"]
         },
         {
           "weekNumber": 19,
-          "pattern": ["8A", "REST", "8A", "REST", "8B", "REST", "REST"]
+          "pattern": ["8A-4", "REST", "8A-4", "REST", "8B-4", "REST", "REST"]
         }
       ]
     }

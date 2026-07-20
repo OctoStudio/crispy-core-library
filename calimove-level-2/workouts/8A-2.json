@@ -1,10 +1,10 @@
 {
-  "id": "8A",
+  "id": "8A-2",
   "title": "Workout 8A",
   "blocks": [
     {
       "type": "circuit",
-      "rounds": 6,
+      "rounds": 7,
       "items": [
         {
           "id": "pull-up",

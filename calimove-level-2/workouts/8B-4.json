@@ -1,10 +1,10 @@
 {
-  "id": "8A",
-  "title": "Workout 8A",
+  "id": "8B-4",
+  "title": "Workout 8B",
   "blocks": [
     {
       "type": "circuit",
-      "rounds": 6,
+      "rounds": 9,
       "items": [
         {
           "id": "pull-up",
@@ -40,25 +40,25 @@
     },
     {
       "type": "circuit",
-      "rounds": 4,
+      "rounds": 9,
       "items": [
         {
-          "id": "elevated-pistol-squat",
-          "exerciseId": "elevated-pistol-squat",
+          "id": "step-up",
+          "exerciseId": "step-up",
           "prescription": {
             "mode": "reps",
             "target": {
               "reps": { "min": 3, "max": 8 }
             },
-            "rpe": 8,
+            "rpe": 5,
             "toFailure": "none",
-            "tempo": { "down": 2, "up": "X" }
+            "tempo": { "down": 2, "up": 2 }
           },
-          "restAfterSec": 120
+          "restAfterSec": 90
         },
         {
-          "id": "archer-squat",
-          "exerciseId": "archer-squat",
+          "id": "single-leg-glute-bridge-raise",
+          "exerciseId": "single-leg-glute-bridge-raise",
           "prescription": {
             "mode": "reps",
             "target": {
@@ -66,12 +66,12 @@
             },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": { "down": 2, "up": 1 }
+            "tempo": { "down": 1, "pause": 2, "up": 1 }
           },
           "restAfterSec": 0
         }
       ],
-      "restBetweenRoundsSec": 120
+      "restBetweenRoundsSec": 90
     }
   ]
 }
