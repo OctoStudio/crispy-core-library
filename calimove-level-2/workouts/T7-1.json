@@ -1,106 +1,89 @@
 {
   "id": "T7-1",
-  "title": "Test 7-1",
+  "title": "T7-1",
   "blocks": [
     {
-      "type": "circuit",
-      "rounds": 4,
+      "type": "straight",
+      "rounds": 1,
       "items": [
         {
-          "id": "pull-up-T7-1",
+          "id": "pull-up",
           "exerciseId": "pull-up",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 3,
-                "max": 8
-              }
+              "reps": { "min": 3, "max": 8 }
             },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": {
-              "down": 2,
-              "pause": 0,
-              "up": 1
-            }
-          },
-          "restAfterSec": 120
-        },
+            "tempo": { "down": 2, "up": "X" }
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
         {
-          "id": "dip-T7-1",
+          "id": "dip",
           "exerciseId": "dip",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 3,
-                "max": 8
-              }
+              "reps": { "min": 3, "max": 8 }
             },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": {
-              "down": 2,
-              "pause": 0,
-              "up": 2
-            }
-          },
-          "restAfterSec": 120
+            "tempo": { "down": 1, "up": "X" }
+          }
         }
       ],
-      "restBetweenRoundsSec": 180,
-      "postBlockRestSec": 600
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
     },
     {
-      "type": "circuit",
-      "rounds": 4,
+      "type": "straight",
+      "rounds": 1,
       "items": [
         {
-          "id": "elevated-pistol-squat-T7-1",
+          "id": "hollow-body",
+          "exerciseId": "hollow-body",
+          "prescription": {
+            "mode": "time",
+            "target": {
+              "timeSec": { "min": 30, "max": 45 }
+            },
+            "rpe": 10,
+            "toFailure": "none",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 300
+    },
+    {
+      "type": "straight",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "elevated-pistol-squat",
           "exerciseId": "elevated-pistol-squat",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 3,
-                "max": 8
-              }
+              "reps": { "min": 3, "max": 8 }
             },
             "rpe": 10,
             "toFailure": "none",
-            "tempo": {
-              "down": 3,
-              "pause": 0,
-              "up": 1
-            }
-          },
-          "restAfterSec": 120
-        },
-        {
-          "id": "sl-glute-bridge-raise-T7-1",
-          "exerciseId": "sl-glute-bridge-raise",
-          "prescription": {
-            "mode": "reps",
-            "target": {
-              "reps": {
-                "min": 8,
-                "max": 15
-              }
-            },
-            "rpe": 10,
-            "toFailure": "none",
-            "tempo": {
-              "down": 1,
-              "pause": 0,
-              "up": 1
-            }
-          },
-          "restAfterSec": 120
+            "tempo": { "down": 2, "up": "X" }
+          }
         }
       ],
-      "restBetweenRoundsSec": 180,
-      "postBlockRestSec": 600
+      "restBetweenRoundsSec": 0
     }
   ]
 }

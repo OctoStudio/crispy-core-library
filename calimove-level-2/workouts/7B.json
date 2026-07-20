@@ -7,98 +7,71 @@
       "rounds": 4,
       "items": [
         {
-          "id": "archer-bodyrow-7B",
-          "exerciseId": "archer-bodyrow",
+          "id": "archer-body-row",
+          "exerciseId": "archer-body-row",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 3,
-                "max": 8
-              }
+              "reps": { "min": 3, "max": 8 }
             },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": {
-              "down": 2,
-              "pause": 0,
-              "up": 2
-            }
+            "tempo": { "down": 2, "up": "X" }
           },
           "restAfterSec": 120
         },
         {
-          "id": "side-to-side-push-up-7B",
+          "id": "side-to-side-push-up",
           "exerciseId": "side-to-side-push-up",
           "prescription": {
             "mode": "reps",
             "target": {
-              "reps": {
-                "min": 3,
-                "max": 8
-              }
+              "reps": { "min": 3, "max": 8 }
             },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": {
-              "down": 2,
-              "pause": 0,
-              "up": 2
-            }
+            "tempo": { "down": 2, "up": "X" }
           },
-          "restAfterSec": 120
+          "restAfterSec": 0
         }
       ],
-      "restBetweenRoundsSec": 180
+      "restBetweenRoundsSec": 120,
+      "postBlockRestSec": 180
     },
     {
       "type": "circuit",
       "rounds": 4,
       "items": [
         {
-          "id": "hollow-body-hold-7B",
-          "exerciseId": "hollow-body-hold",
+          "id": "hollow-body",
+          "exerciseId": "hollow-body",
           "prescription": {
             "mode": "time",
             "target": {
-              "timeSec": {
-                "min": 30,
-                "max": 45
-              }
+              "timeSec": { "min": 30, "max": 45 }
             },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": {
-              "down": 0,
-              "pause": 0,
-              "up": 0
-            }
+            "tempo": null
           },
-          "restAfterSec": 120
+          "restAfterSec": 480
         },
         {
-          "id": "arch-up-hold-7B",
-          "exerciseId": "arch-up-hold",
+          "id": "arch-up",
+          "exerciseId": "arch-up",
           "prescription": {
             "mode": "time",
             "target": {
-              "timeSec": {
-                "min": 40,
-                "max": 80
-              }
+              "timeSec": { "min": 40, "max": 80 }
             },
             "rpe": 8,
             "toFailure": "none",
-            "tempo": {
-              "down": 0,
-              "pause": 0,
-              "up": 0
-            }
+            "tempo": null
           },
-          "restAfterSec": 120
+          "restAfterSec": 0
         }
       ],
-      "restBetweenRoundsSec": 180
+      "restBetweenRoundsSec": 120
     }
   ]
 }
