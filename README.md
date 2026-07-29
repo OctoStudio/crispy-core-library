@@ -9,7 +9,7 @@ Official workout programs for [CrispyCore](https://crispy-core.com) — an iOS w
 | `calimove-level-1` | Calimove – Level 1 |
 | `calimove-level-2` | Calimove – Level 2 |
 | `calimove-level-3` | Calimove – Level 3 |
-| `knee-ability-zero` | Knee Ability Zero |
+| `knee-ability-zero` | Knees Over Toes – Ability Zero |
 | `posture-balance` | Posture & Balance |
 
 Browse and import these programs from the [CrispyCore Library](https://crispy-core.com/library.html).

@@ -1,6 +1,8 @@
 {
   "programId": "knee-ability-zero",
-  "programTitle": "Knees Over Toes – Abiliy Zero",
+  "programTitle": "Knees Over Toes – Ability Zero",
+  "shortDescription": "Ability Zero — bulletproof your knees from the ground up with daily knees-over-toes work.",
+  "categories": ["mobility", "knees", "rehab"],
   "contentVersion": "1.0.1",
   "phases": [
     {

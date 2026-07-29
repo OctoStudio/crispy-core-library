@@ -1,7 +1,9 @@
 {
     "programId": "calisthenics-level-1",
     "programTitle": "Calimove – Level 1",
-    "contentVersion": "1.1",
+    "shortDescription": "Foundational calisthenics strength — push, pull, legs and core with progressive overload.",
+    "categories": ["calisthenics", "strength", "beginner"],
+    "contentVersion": "1.1.0",
     "phases": [
         {
             "id": "P1",

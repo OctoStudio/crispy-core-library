@@ -1,6 +1,8 @@
 {
   "programId": "posture-balance",
   "programTitle": "Posture & Balance",
+  "shortDescription": "A short daily routine for posture, balance and mobility.",
+  "categories": ["mobility", "posture", "routine"],
   "contentVersion": "1.0.0",
   "phases": [],
   "kind": "routine",

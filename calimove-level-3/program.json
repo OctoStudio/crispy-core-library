@@ -1,7 +1,9 @@
 {
     "programId": "calisthenics-level-3",
     "programTitle": "Calimove – Level 3",
-    "contentVersion": "1.0",
+    "shortDescription": "Advanced calisthenics — high-skill progressions and elite bodyweight strength.",
+    "categories": ["calisthenics", "strength", "advanced"],
+    "contentVersion": "1.0.0",
     "phases": [
         {
             "id": "P9",

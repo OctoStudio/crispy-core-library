@@ -1,6 +1,8 @@
 {
   "programId": "calisthenics-level-2",
   "programTitle": "Calimove – Level 2",
+  "shortDescription": "Intermediate calisthenics — more volume and harder progressions across push, pull and legs.",
+  "categories": ["calisthenics", "strength", "intermediate"],
   "contentVersion": "1.1.1",
   "phases": [
     {

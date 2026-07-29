@@ -38,7 +38,7 @@
             "rpe": 10,
             "toFailure": "none",
             "tempo": { "down": 1, "up": 1 }
-          },
+          }
         }
       ],
       "restBetweenRoundsSec": 60,
@@ -59,7 +59,7 @@
             "rpe": 10,
             "toFailure": "each",
             "tempo": { "down": 1, "up": "X" }
-          },
+          }
         }
       ],
       "restBetweenRoundsSec": 60,
@@ -101,7 +101,7 @@
             "rpe": 10,
             "toFailure": "none",
             "tempo": { "down": 1, "up": 1 }
-          },
+          }
         }
       ],
       "restBetweenRoundsSec": 60
