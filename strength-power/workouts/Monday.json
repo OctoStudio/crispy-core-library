@@ -1,0 +1,355 @@
+{
+  "id": "Monday",
+  "title": "Monday",
+  "blocks": [
+    {
+      "type": "circuit",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "cat-cow",
+          "exerciseId": "cat-cow",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 3,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "worlds-greatest-stretch",
+          "exerciseId": "worlds-greatest-stretch",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 3,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "thoracic-rotations",
+          "exerciseId": "thoracic-rotations",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 3,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "hip-openers",
+          "exerciseId": "hip-openers",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 3,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "deep-squat-hold",
+          "exerciseId": "deep-squat-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 3,
+            "toFailure": "none",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 60
+    },
+    {
+      "type": "circuit",
+      "rounds": 1,
+      "items": [
+        {
+          "id": "dead-bug",
+          "exerciseId": "dead-bug",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "weighted-sit-ups",
+          "exerciseId": "weighted-sit-ups",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "plank-shoulder-taps",
+          "exerciseId": "plank-shoulder-taps",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "weighted-russian-twists",
+          "exerciseId": "weighted-russian-twists",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "reverse-crunches",
+          "exerciseId": "reverse-crunches",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "high-plank-hold",
+          "exerciseId": "high-plank-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "toe-touches",
+          "exerciseId": "toe-touches",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "dumbbell-renegade-rows",
+          "exerciseId": "dumbbell-renegade-rows",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "slow-bicycle-crunches",
+          "exerciseId": "slow-bicycle-crunches",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "side-plank-left",
+          "exerciseId": "side-plank-left",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "side-plank-right",
+          "exerciseId": "side-plank-right",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "hollow-hold",
+          "exerciseId": "hollow-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "mountain-climbers",
+          "exerciseId": "mountain-climbers",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "weighted-crunches",
+          "exerciseId": "weighted-crunches",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 10
+        },
+        {
+          "id": "superman-hold",
+          "exerciseId": "superman-hold",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 60, "max": 60 } },
+            "rpe": 7,
+            "toFailure": "none",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 0,
+      "postBlockRestSec": 60
+    },
+    {
+      "type": "circuit",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "db-squat-curl-front-raise",
+          "exerciseId": "db-squat-curl-front-raise",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 40 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "db-lateral-raise-alternating-lunge-front-raise",
+          "exerciseId": "db-lateral-raise-alternating-lunge-front-raise",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 40 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "db-rdl-curl-squat-thrust",
+          "exerciseId": "db-rdl-curl-squat-thrust",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 40 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 30
+        },
+        {
+          "id": "db-skull-crusher-hip-thrust",
+          "exerciseId": "db-skull-crusher-hip-thrust",
+          "prescription": {
+            "mode": "time",
+            "target": { "timeSec": { "min": 40, "max": 40 } },
+            "rpe": 8,
+            "toFailure": "none",
+            "tempo": null
+          },
+          "restAfterSec": 30
+        }
+      ],
+      "restBetweenRoundsSec": 60
+    },
+    {
+      "type": "circuit",
+      "rounds": 5,
+      "items": [
+        {
+          "id": "burpees",
+          "exerciseId": "burpees",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 10 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          }
+        },
+        {
+          "id": "push-ups",
+          "exerciseId": "push-ups",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 10 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          }
+        },
+        {
+          "id": "squats",
+          "exerciseId": "squats",
+          "prescription": {
+            "mode": "reps",
+            "target": { "reps": { "min": 10, "max": 10 } },
+            "rpe": 9,
+            "toFailure": "none",
+            "tempo": null
+          }
+        }
+      ],
+      "restBetweenRoundsSec": 60
+    }
+  ]
+}

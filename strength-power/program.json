@@ -1,0 +1,29 @@
+{
+  "programId": "strength-power",
+  "programTitle": "Strength Power",
+  "contentVersion": "1.0.1",
+  "phases": [
+    {
+      "id": "august-2026",
+      "title": "August 2026",
+      "weeks": [
+        {
+          "weekNumber": 1,
+          "pattern": ["Monday", "REST", "REST", "Thursday", "Friday", "REST", "REST"]
+        },
+        {
+          "weekNumber": 2,
+          "pattern": ["Monday", "REST", "REST", "Thursday", "Friday", "REST", "REST"]
+        },
+        {
+          "weekNumber": 3,
+          "pattern": ["Monday", "REST", "REST", "Thursday", "Friday", "REST", "REST"]
+        },
+        {
+          "weekNumber": 4,
+          "pattern": ["Monday", "REST", "REST", "Thursday", "Friday", "REST", "REST"]
+        }
+      ]
+    }
+  ]
+}

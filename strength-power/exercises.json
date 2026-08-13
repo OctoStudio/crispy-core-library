@@ -1,0 +1,422 @@
+{
+  "ankle-mobility": {
+    "description": "Controlled ankle drills that move the knee over the toes while the heel stays grounded.",
+    "tips": ["Keep the heel down", "Move slowly through a comfortable range"],
+    "muscles": ["Calves", "Ankles"],
+    "difficulty": "Beginner"
+  },
+  "bear-plank": {
+    "description": "Hold a quadruped plank with the knees hovering just above the floor.",
+    "tips": ["Brace the core", "Keep the back flat"],
+    "muscles": ["Core", "Shoulders", "Quads"],
+    "difficulty": "Intermediate"
+  },
+  "bicycle-crunches": {
+    "description": "Alternate bringing one elbow toward the opposite knee while extending the other leg.",
+    "tips": ["Rotate through the ribs", "Avoid pulling on the neck"],
+    "muscles": ["Abs", "Obliques", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "bulgarian-split-squats": {
+    "description": "Perform split squats with the rear foot elevated on a stable surface.",
+    "tips": ["Keep the front foot planted", "Lower under control"],
+    "muscles": ["Quads", "Glutes", "Hamstrings"],
+    "difficulty": "Intermediate"
+  },
+  "burpees": {
+    "description": "Move from standing to a plank and return explosively to standing with a jump.",
+    "tips": ["Brace before placing the hands down", "Land softly"],
+    "muscles": ["Full Body", "Chest", "Quads", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "calf-raises": {
+    "description": "Rise onto the balls of the feet, pause at the top, and lower under control.",
+    "tips": ["Use a full range of motion", "Avoid bouncing"],
+    "muscles": ["Calves"],
+    "difficulty": "Beginner"
+  },
+  "cat-cow": {
+    "description": "Alternate gently between spinal flexion and extension from a hands-and-knees position.",
+    "tips": ["Move one vertebra at a time", "Match the motion to steady breathing"],
+    "muscles": ["Spine", "Core", "Back"],
+    "difficulty": "Beginner"
+  },
+  "copenhagen-side-plank-left": {
+    "description": "Hold a left-side plank with the upper leg supported on a bench or stable surface.",
+    "tips": ["Keep the hips lifted", "Maintain a straight body line"],
+    "muscles": ["Adductors", "Obliques", "Shoulders"],
+    "difficulty": "Advanced"
+  },
+  "copenhagen-side-plank-right": {
+    "description": "Hold a right-side plank with the upper leg supported on a bench or stable surface.",
+    "tips": ["Keep the hips lifted", "Maintain a straight body line"],
+    "muscles": ["Adductors", "Obliques", "Shoulders"],
+    "difficulty": "Advanced"
+  },
+  "cross-body-mountain-climbers": {
+    "description": "From a high plank, alternate driving each knee toward the opposite elbow.",
+    "tips": ["Keep the shoulders over the hands", "Limit hip rotation"],
+    "muscles": ["Abs", "Obliques", "Shoulders", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "db-lateral-raise-alternating-lunge-front-raise": {
+    "description": "Using two dumbbells, combine a lateral raise, alternating lunge, and front raise in sequence.",
+    "tips": ["Use light controllable weights", "Keep the knees tracking over the toes"],
+    "muscles": ["Shoulders", "Quads", "Glutes", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "db-rdl-curl-squat-thrust": {
+    "description": "Using two dumbbells, combine a Romanian deadlift, curl, squat, and overhead thrust.",
+    "tips": ["Hinge with a neutral spine", "Keep each transition controlled"],
+    "muscles": ["Hamstrings", "Glutes", "Biceps", "Shoulders", "Quads"],
+    "difficulty": "Advanced"
+  },
+  "db-skull-crusher-hip-thrust": {
+    "description": "Using one dumbbell, combine a hip thrust with a lying triceps skull crusher.",
+    "tips": ["Keep the hips stable", "Keep the elbows pointed upward"],
+    "muscles": ["Glutes", "Hamstrings", "Triceps", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "db-squat-curl-front-raise": {
+    "description": "Using one dumbbell, combine a squat, biceps curl, and front raise.",
+    "tips": ["Brace the core", "Move through each phase with control"],
+    "muscles": ["Quads", "Glutes", "Biceps", "Shoulders"],
+    "difficulty": "Intermediate"
+  },
+  "dead-bug": {
+    "description": "Lower opposite arm and leg from a supine tabletop position while keeping the lower back controlled.",
+    "tips": ["Press the lower back gently into the floor", "Move slowly"],
+    "muscles": ["Abs", "Deep Core", "Hip Flexors"],
+    "difficulty": "Beginner"
+  },
+  "deep-squat-hold": {
+    "description": "Hold the bottom of a comfortable deep squat with the feet grounded.",
+    "tips": ["Keep the heels down", "Maintain a tall chest"],
+    "muscles": ["Hips", "Glutes", "Quads", "Ankles"],
+    "difficulty": "Beginner"
+  },
+  "deep-squat-stretch": {
+    "description": "Use a supported deep squat to mobilize the hips, groin, and ankles.",
+    "tips": ["Use support if needed", "Keep the knees aligned with the toes"],
+    "muscles": ["Hips", "Adductors", "Ankles"],
+    "difficulty": "Beginner"
+  },
+  "dumbbell-biceps-curls": {
+    "description": "Curl dumbbells toward the shoulders while keeping the upper arms mostly still.",
+    "tips": ["Keep the elbows close to the body", "Control the lowering phase"],
+    "muscles": ["Biceps", "Forearms"],
+    "difficulty": "Beginner"
+  },
+  "dumbbell-chest-flies": {
+    "description": "From a supported lying position, open the dumbbells wide and bring them together over the chest.",
+    "tips": ["Keep a soft bend in the elbows", "Use a comfortable shoulder range"],
+    "muscles": ["Chest", "Front Delts"],
+    "difficulty": "Intermediate"
+  },
+  "dumbbell-renegade-rows": {
+    "description": "From a dumbbell high plank, alternate rowing one dumbbell toward the ribs.",
+    "tips": ["Use light dumbbells", "Keep the hips as square as possible"],
+    "muscles": ["Lats", "Upper Back", "Arms", "Core"],
+    "difficulty": "Advanced"
+  },
+  "dumbbell-reverse-flies": {
+    "description": "From a hip hinge, raise dumbbells out to the sides to target the rear shoulders and upper back.",
+    "tips": ["Keep a neutral spine", "Lead with the elbows"],
+    "muscles": ["Rear Delts", "Rhomboids", "Upper Back"],
+    "difficulty": "Intermediate"
+  },
+  "dumbbell-triceps-kickbacks": {
+    "description": "From a supported or hinged position, extend the elbows to move the dumbbells behind the body.",
+    "tips": ["Keep the upper arms still", "Fully control the return"],
+    "muscles": ["Triceps"],
+    "difficulty": "Beginner"
+  },
+  "flutter-kicks": {
+    "description": "Lie on the back and alternate small up-and-down leg kicks while bracing the core.",
+    "tips": ["Keep the lower back controlled", "Use small steady kicks"],
+    "muscles": ["Abs", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "glute-stretch": {
+    "description": "A controlled stretch for the glutes and outer hips.",
+    "tips": ["Keep the stretch gentle", "Breathe steadily"],
+    "muscles": ["Glutes", "Hips"],
+    "difficulty": "Beginner"
+  },
+  "hamstring-curls": {
+    "description": "Curl the heels toward the glutes using a machine, band, ball, or sliders.",
+    "tips": ["Keep the hips stable", "Control the extension"],
+    "muscles": ["Hamstrings"],
+    "difficulty": "Beginner"
+  },
+  "hamstring-stretch": {
+    "description": "A controlled stretch for the muscles along the back of the thighs.",
+    "tips": ["Hinge from the hips", "Avoid forcing the range"],
+    "muscles": ["Hamstrings"],
+    "difficulty": "Beginner"
+  },
+  "hanging-knee-raises": {
+    "description": "Hang from a bar and raise the knees toward the torso; use lying leg raises when no bar is available.",
+    "tips": ["Avoid swinging", "Curl the pelvis upward at the top"],
+    "muscles": ["Abs", "Hip Flexors", "Grip"],
+    "difficulty": "Intermediate"
+  },
+  "heavy-db-farmer-carry-march": {
+    "description": "Hold heavy dumbbells at the sides and march in place with a tall, braced posture.",
+    "tips": ["Keep the ribs stacked over the pelvis", "Avoid leaning or shrugging"],
+    "muscles": ["Grip", "Forearms", "Traps", "Core", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "heavy-russian-twists": {
+    "description": "Rotate the torso side to side while holding a challenging weight in front of the body.",
+    "tips": ["Rotate through the torso", "Keep the movement controlled"],
+    "muscles": ["Obliques", "Abs", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "heel-taps": {
+    "description": "From a crunch position, alternate reaching each hand toward the same-side heel.",
+    "tips": ["Keep the shoulder blades lifted", "Reach through the side body"],
+    "muscles": ["Obliques", "Abs"],
+    "difficulty": "Beginner"
+  },
+  "high-plank-hold": {
+    "description": "Hold the top of a push-up with arms straight and the body in one line.",
+    "tips": ["Push the floor away", "Keep the hips level"],
+    "muscles": ["Core", "Shoulders", "Chest"],
+    "difficulty": "Beginner"
+  },
+  "hip-flexor-stretch": {
+    "description": "A kneeling or standing stretch for the front of the hip.",
+    "tips": ["Tuck the pelvis slightly", "Avoid arching the lower back"],
+    "muscles": ["Hip Flexors", "Quads"],
+    "difficulty": "Beginner"
+  },
+  "hip-openers": {
+    "description": "Controlled mobility movements through multiple hip positions and ranges.",
+    "tips": ["Move without forcing the range", "Keep the torso controlled"],
+    "muscles": ["Hips", "Glutes", "Adductors"],
+    "difficulty": "Beginner"
+  },
+  "hip-thrusts": {
+    "description": "Drive the hips upward from a supported position and squeeze the glutes at the top.",
+    "tips": ["Keep the ribs down", "Push through the heels"],
+    "muscles": ["Glutes", "Hamstrings"],
+    "difficulty": "Intermediate"
+  },
+  "hollow-hold": {
+    "description": "Hold a hollow-body position with the lower back pressed toward the floor.",
+    "tips": ["Shorten the lever if the back lifts", "Keep steady tension"],
+    "muscles": ["Abs", "Deep Core"],
+    "difficulty": "Intermediate"
+  },
+  "hollow-rocks": {
+    "description": "Maintain a hollow-body shape while rocking smoothly from shoulders to hips.",
+    "tips": ["Keep the body shape fixed", "Use a small controlled rock"],
+    "muscles": ["Abs", "Deep Core"],
+    "difficulty": "Advanced"
+  },
+  "jump-squats": {
+    "description": "Explode upward from a squat and land softly before the next repetition.",
+    "tips": ["Land with knees tracking over toes", "Absorb the landing quietly"],
+    "muscles": ["Quads", "Glutes", "Calves"],
+    "difficulty": "Intermediate"
+  },
+  "leg-raises": {
+    "description": "Raise and lower straight or slightly bent legs while keeping the torso stable.",
+    "tips": ["Keep the lower back controlled", "Lower only as far as form allows"],
+    "muscles": ["Abs", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "mountain-climbers": {
+    "description": "From a high plank, alternate driving the knees forward toward the chest.",
+    "tips": ["Keep the shoulders over the hands", "Maintain a stable torso"],
+    "muscles": ["Core", "Shoulders", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "plank": {
+    "description": "Hold a forearm plank with the body in a straight line from head to heels.",
+    "tips": ["Brace the glutes and abs", "Keep the hips level"],
+    "muscles": ["Core", "Shoulders", "Glutes"],
+    "difficulty": "Beginner"
+  },
+  "plank-hip-dips": {
+    "description": "From a forearm plank, rotate the hips gently from side to side toward the floor.",
+    "tips": ["Keep the shoulders stable", "Control the rotation"],
+    "muscles": ["Obliques", "Abs", "Shoulders"],
+    "difficulty": "Intermediate"
+  },
+  "plank-shoulder-taps": {
+    "description": "From a high plank, alternate tapping the opposite shoulder with one hand.",
+    "tips": ["Widen the feet for stability", "Minimize hip rotation"],
+    "muscles": ["Core", "Shoulders", "Chest"],
+    "difficulty": "Intermediate"
+  },
+  "pull-ups": {
+    "description": "Hang from a bar and pull until the chin clears the bar, then lower under control.",
+    "tips": ["Set the shoulders before pulling", "Avoid swinging"],
+    "muscles": ["Lats", "Biceps", "Forearms", "Upper Back"],
+    "difficulty": "Intermediate"
+  },
+  "push-ups": {
+    "description": "Lower the chest from a high plank and press back to straight arms while maintaining body alignment.",
+    "tips": ["Keep the elbows at a comfortable angle", "Keep the body rigid"],
+    "muscles": ["Chest", "Triceps", "Shoulders", "Core"],
+    "difficulty": "Intermediate"
+  },
+  "reverse-crunches": {
+    "description": "Curl the pelvis toward the ribs by drawing the knees toward the chest.",
+    "tips": ["Avoid using momentum", "Lower the hips slowly"],
+    "muscles": ["Abs", "Hip Flexors"],
+    "difficulty": "Beginner"
+  },
+  "romanian-deadlifts": {
+    "description": "Hinge at the hips with a neutral spine, lower the load to a hamstring stretch, and stand tall.",
+    "tips": ["Keep the load close to the legs", "Maintain soft knees"],
+    "muscles": ["Hamstrings", "Glutes", "Back"],
+    "difficulty": "Intermediate"
+  },
+  "shoulder-mobility": {
+    "description": "Controlled shoulder movements through comfortable ranges of flexion, rotation, and extension.",
+    "tips": ["Keep the ribs down", "Use a pain-free range"],
+    "muscles": ["Shoulders", "Upper Back"],
+    "difficulty": "Beginner"
+  },
+  "shoulder-triceps-lateral-raise-finisher": {
+    "description": "Complete 100 combined total reps of dumbbell shoulder presses, dumbbell triceps extensions, and dumbbell lateral raises without scheduled rest.",
+    "tips": ["Divide the 100 reps among all three movements", "Use weights that allow clean repetitions"],
+    "muscles": ["Shoulders", "Triceps"],
+    "difficulty": "Intermediate"
+  },
+  "side-bends": {
+    "description": "Gently bend the torso from side to side to mobilize the lateral trunk.",
+    "tips": ["Keep the hips stable", "Avoid twisting"],
+    "muscles": ["Obliques", "Lats"],
+    "difficulty": "Beginner"
+  },
+  "side-plank-left": {
+    "description": "Hold a left-side forearm plank with the body in a straight line.",
+    "tips": ["Keep the hips lifted", "Stack the shoulders"],
+    "muscles": ["Obliques", "Shoulders", "Glutes"],
+    "difficulty": "Intermediate"
+  },
+  "side-plank-reach-through-left": {
+    "description": "From a left-side plank, rotate the upper arm under the torso and return to an open position.",
+    "tips": ["Keep the hips lifted", "Rotate through the upper back"],
+    "muscles": ["Obliques", "Shoulders", "Upper Back"],
+    "difficulty": "Intermediate"
+  },
+  "side-plank-reach-through-right": {
+    "description": "From a right-side plank, rotate the upper arm under the torso and return to an open position.",
+    "tips": ["Keep the hips lifted", "Rotate through the upper back"],
+    "muscles": ["Obliques", "Shoulders", "Upper Back"],
+    "difficulty": "Intermediate"
+  },
+  "side-plank-right": {
+    "description": "Hold a right-side forearm plank with the body in a straight line.",
+    "tips": ["Keep the hips lifted", "Stack the shoulders"],
+    "muscles": ["Obliques", "Shoulders", "Glutes"],
+    "difficulty": "Intermediate"
+  },
+  "slow-bicycle-crunches": {
+    "description": "Perform bicycle crunches slowly with deliberate rotation and full leg extension.",
+    "tips": ["Pause briefly on each side", "Avoid pulling on the neck"],
+    "muscles": ["Abs", "Obliques", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "squats": {
+    "description": "Lower the hips between the feet and return to standing while keeping the feet grounded.",
+    "tips": ["Keep the knees tracking over the toes", "Brace the torso"],
+    "muscles": ["Quads", "Glutes", "Hamstrings"],
+    "difficulty": "Beginner"
+  },
+  "standing-oblique-crunch-left": {
+    "description": "From standing, shorten the left side of the torso by bringing the left ribs and hip toward each other.",
+    "tips": ["Keep the movement lateral", "Avoid pulling on the neck"],
+    "muscles": ["Obliques", "Abs"],
+    "difficulty": "Beginner"
+  },
+  "standing-oblique-crunch-right": {
+    "description": "From standing, shorten the right side of the torso by bringing the right ribs and hip toward each other.",
+    "tips": ["Keep the movement lateral", "Avoid pulling on the neck"],
+    "muscles": ["Obliques", "Abs"],
+    "difficulty": "Beginner"
+  },
+  "superman-hold": {
+    "description": "Lie face down and hold the arms, chest, and legs slightly lifted from the floor.",
+    "tips": ["Keep the neck neutral", "Lift only as high as comfortable"],
+    "muscles": ["Lower Back", "Glutes", "Upper Back"],
+    "difficulty": "Beginner"
+  },
+  "thoracic-rotations": {
+    "description": "Rotate through the upper back while keeping the hips controlled.",
+    "tips": ["Follow the moving hand with the eyes", "Avoid forcing the range"],
+    "muscles": ["Upper Back", "Shoulders", "Obliques"],
+    "difficulty": "Beginner"
+  },
+  "toe-touches": {
+    "description": "From a supine position with legs raised, reach the hands toward the toes by lifting the shoulder blades.",
+    "tips": ["Lift through the ribs", "Avoid pulling the neck"],
+    "muscles": ["Abs"],
+    "difficulty": "Beginner"
+  },
+  "v-ups": {
+    "description": "Raise the torso and legs together to form a V shape, then lower under control.",
+    "tips": ["Move without momentum", "Bend the knees if needed"],
+    "muscles": ["Abs", "Hip Flexors"],
+    "difficulty": "Advanced"
+  },
+  "walking-lunges": {
+    "description": "Step forward into alternating lunges while traveling continuously.",
+    "tips": ["Keep a tall posture", "Push through the front foot"],
+    "muscles": ["Quads", "Glutes", "Hamstrings"],
+    "difficulty": "Intermediate"
+  },
+  "wall-sit": {
+    "description": "Hold a seated position against a wall with the feet planted and knees bent.",
+    "tips": ["Keep the back against the wall", "Press evenly through both feet"],
+    "muscles": ["Quads", "Glutes"],
+    "difficulty": "Beginner"
+  },
+  "weighted-crunches": {
+    "description": "Perform controlled crunches while holding a plate or dumbbell securely.",
+    "tips": ["Curl the ribs toward the pelvis", "Choose a manageable load"],
+    "muscles": ["Abs"],
+    "difficulty": "Intermediate"
+  },
+  "weighted-russian-twists": {
+    "description": "Rotate the torso side to side while holding a plate or dumbbell.",
+    "tips": ["Keep the load close to the torso", "Control each rotation"],
+    "muscles": ["Obliques", "Abs", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "weighted-sit-ups": {
+    "description": "Perform sit-ups while holding a plate or dumbbell securely at the chest.",
+    "tips": ["Keep the feet stable", "Avoid jerking through the lower back"],
+    "muscles": ["Abs", "Hip Flexors"],
+    "difficulty": "Intermediate"
+  },
+  "windshield-wipers": {
+    "description": "With the torso braced and legs raised, lower the legs from side to side under control.",
+    "tips": ["Keep the shoulders grounded", "Use bent knees to reduce difficulty"],
+    "muscles": ["Obliques", "Abs", "Hip Flexors"],
+    "difficulty": "Advanced"
+  },
+  "wood-chops-left": {
+    "description": "Move a load diagonally across the body toward the left using controlled trunk rotation.",
+    "tips": ["Pivot naturally through the feet", "Keep the core braced"],
+    "muscles": ["Obliques", "Shoulders", "Hips"],
+    "difficulty": "Intermediate"
+  },
+  "wood-chops-right": {
+    "description": "Move a load diagonally across the body toward the right using controlled trunk rotation.",
+    "tips": ["Pivot naturally through the feet", "Keep the core braced"],
+    "muscles": ["Obliques", "Shoulders", "Hips"],
+    "difficulty": "Intermediate"
+  },
+  "worlds-greatest-stretch": {
+    "description": "A lunge-based mobility sequence combining hip opening and thoracic rotation.",
+    "tips": ["Keep the front foot grounded", "Rotate through the upper back"],
+    "muscles": ["Hip Flexors", "Hamstrings", "Glutes", "Upper Back"],
+    "difficulty": "Beginner"
+  }
+}
