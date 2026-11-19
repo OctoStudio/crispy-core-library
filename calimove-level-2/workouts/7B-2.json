@@ -54,7 +54,7 @@
             "toFailure": "none",
             "tempo": null
           },
-          "restAfterSec": 480
+          "restAfterSec": 180
         },
         {
           "id": "arch-up",
